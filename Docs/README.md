@@ -21,6 +21,9 @@ xuxiaojun \ wangjun \ yunana
 
 
 ### 翻译规则
-图片和视频资源全部存储到Docs/resource文件夹中，按照项目编号分文件夹放置；
+* 图片和视频资源全部存储到Docs/resource文件夹中，按照项目编号分文件夹放置；
+* 项目统一在Github 上管理，每个人在自己的分支中编辑，不要直接编辑master分支
+* 
+
 
 

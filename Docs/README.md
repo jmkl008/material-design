@@ -4,7 +4,7 @@
 
 ### 翻译组成员
 
-许晓军、王珺、于娜娜
+xuxiaojun \ wangjun \ yunana
 
 
 ### 翻译计划

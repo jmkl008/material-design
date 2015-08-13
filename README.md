@@ -21,5 +21,6 @@
 ### 翻译规则
 * 图片和视频资源全部存储到Docs/resource文件夹中，按照项目编号分文件夹放置；
 * 项目统一在Github 上管理，每个人在自己的分支中编辑，不要直接编辑master分支
-* 本地的编辑工具为Gitbook
-* 用到的工具可直接在tool文件夹下查找
+* 本地的编辑工具为Gitbook editor
+* git同步工具为source tree
+* 用到的工具下载地址 http://pan.baidu.com/s/1hq8hcMg 
